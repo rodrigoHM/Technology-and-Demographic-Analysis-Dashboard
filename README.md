@@ -11,9 +11,8 @@ This capstone project showcases the culmination of our learning from the IBM Dat
 
 ## Key Findings:
 
-[Insert concise summary of key findings here]
 Access the Interactive Dashboard:
 [Link to Google Looker Studio Dashboard](https://lookerstudio.google.com/s/hA2kN2Jim4A)
 
 ## Final Report:
-[Link to Final Report (PDF)]
+[Link to Final Report (PDF)](https://github.com/rodrigoHM/Technology-and-Demographic-Analysis-Dashboard/blob/main/Presentation%20and%20Figures/DataAnalystPresentation.pptx)
