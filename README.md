@@ -2,6 +2,10 @@
 
 This capstone project showcases the culmination of our learning from the IBM Data Analyst Professional Certificate program. By applying a range of data analysis techniques, we've delved into real-world datasets to uncover valuable insights into current and future technology trends.
 
+## Dataset
+
+**Survey Data**: Infomation on current technology usage, future technology trends, and demographics were sourced from the [Stack Overflow Developer Survey](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/HLOosvsPgIwt5dgOOh1RSg/survey-data-updated.csv).  
+
 ## Key Tasks:
 
 - **Data Collection and Wrangling**: We sourced data from the Stack Overflow Developer Survey.
